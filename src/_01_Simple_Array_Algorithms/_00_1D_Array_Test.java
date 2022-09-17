@@ -1,8 +1,9 @@
 package _01_Simple_Array_Algorithms;
 
+import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.jupiter.api.Test;
 
 public class _00_1D_Array_Test {
 
